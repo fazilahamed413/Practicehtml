@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    background-color: #f2f6ff;
+}
+.tops{
+    background-color: #fff;
+    padding:16px 0px 0px 78px;
+}
+.topbar p{
+    display: inline;
+   
+}
+.edyo{
+    color: #0084ff;
+    font-size: 32px;
+    font-family:Raleway;
+    font-weight: 900;
+    
+}
+.explore{
+    color: #000;
+    font-family: raleway;
+    padding-left: 38px;
+}
+.stori{
+    font-family: raleway;
+    margin-top: 0px;
+}
+.allitems{
+    margin-left: 220px;
+}
+h1{
+font-family: raleway;
+}
+.filt span{
+    font-family: raleway;
+    margin-left: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.butto button{
+    border-radius: 15px;
+    padding:6px 14px;
+    margin:5px;
+    color: #0084ff;
+     background-color: #f2f6ff;
+     cursor: pointer;
+    border:1px solid #0084ff;
+
+}
+.butto button:hover{
+    background-color: #0084ff;
+    color:white;
+}
+.menu{
+    
+    display: flex;
+}
+.menulist1{
+    width:33.3%;
+    margin:10px;
+    border:1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #fff;
+
+   
+}
+.menulist1 p{
+    color:rgba(0,0,0,6)
+}
+
+.menu2{
+    display: flex;
+   
+}
+.menulist2{
+    width: 33.3%;
+    margin:10px;
+    border:1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #fff;
+
+}
+.foot{
+    background-color: #172146;
+    padding:70px 16%;
+}
